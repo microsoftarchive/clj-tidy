@@ -2,7 +2,7 @@
 
 # clj-tidy [![Build Status](https://travis-ci.org/wunderlist/clj-tidy.svg)](https://travis-ci.org/wunderlist/clj-tidy)
 
-clj-tidy is a wrapper around JTidy. Currently only validation (errors and warnings)
+clj-tidy is a wrapper around [JTidy](http://jtidy.sourceforge.net/). Currently only validation (errors and warnings)
 are supported. clj-tidy wraps the original InputSteam-based interface of JTidy with
 strings for input and maps of the validation errors as output.
 
